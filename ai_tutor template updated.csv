@@ -1,0 +1,201 @@
+Campus (SG/MUM/SYD/DXB),Course(GCGM/MGM/GMBA),Cohort,Unit_Name,Batch_size(number should come from student feedback form),Faculty Name,Faculty_Email_ID,Unit_Commencement_date,Unit_End_Date,No_of_Session_IDs_created,Total_Students_Participated_watched videos,Total_Students_Attempted_AI Tutor Platform Quiz,Average Score of AI Tutor Platform Quiz,No_of_students_who_filled_student feedback form,Faculty_Rating_provide by students,AI_Tutor_quality_score,AI_Tutor_impact_score,Avg_Rating_for_AI_Tutor_Tool,Faculty_Implemented_AI_Tutor_efficiently(Yes/No),No. of Quizzes_conducted,AI_Quizzes_used_for_grading,Average_ Quiz_Score,Faculty_Feedback
+SG,GCGM,Jul-24,Organizational Behavior,27,Prof_Jones,prof_92@spjain.edu,01-Oct-2024,05-Sep-2025,12,18,17,6.4,18,6.35,7.69,6.12,7.66,No,10,Yes,8.6,Negative
+SYD,GCGM,Jul-22,Leadership & Change,30,Prof_Harris,prof_69@spjain.edu,27-Jun-2025,29-Aug-2025,13,20,15,9.8,18,6.41,7.52,7.44,8.03,No,6,Yes,9.3,Neutral
+SYD,GMBA,Jul-22,Business Analytics,21,Prof_Martinez,prof_90@spjain.edu,02-Oct-2024,25-Sep-2025,12,16,11,9.4,12,7.52,7.81,9.34,7.49,Yes,7,Yes,7.2,Positive
+DXB,MGB,Jan-23,Innovation Management,42,Prof_Taylor,prof_28@spjain.edu,28-Sep-2024,12-Sep-2025,22,32,32,7.3,25,6.92,6.13,7.26,7.8,No,5,No,9.7,Positive
+SYD,GCGM,Jul-22,Marketing Research,37,Prof_Miller,prof_88@spjain.edu,25-Jan-2025,08-Sep-2025,13,35,33,7.6,31,9.99,6.55,7.97,9.27,Yes,3,No,7.0,Negative
+DXB,GMBA,Jan-23,Marketing Research,47,Prof_Martinez,prof_65@spjain.edu,30-May-2025,11-Sep-2025,5,31,31,9.5,28,9.07,7.36,7.17,7.47,Yes,2,No,9.8,Positive
+MUM,MGB,Jul-22,Marketing Research,50,Prof_Brown,prof_11@spjain.edu,24-Dec-2024,01-Sep-2025,21,30,30,7.3,24,6.45,7.45,9.94,9.42,Yes,5,Yes,6.7,Positive
+DXB,GMBA,Jul-22,Organizational Behavior,36,Prof_Garcia,prof_29@spjain.edu,28-Jul-2025,17-Sep-2025,24,34,26,9.7,30,8.85,7.6,8.69,8.12,Yes,10,Yes,8.1,Positive
+SG,GCGM,Jul-24,Innovation Management,21,Prof_Martin,prof_53@spjain.edu,24-May-2025,24-Sep-2025,12,13,9,9.4,10,8.06,7.11,7.94,8.62,Yes,9,No,7.4,Neutral
+DXB,MGB,Jul-23,Digital Marketing,41,Prof_Martinez,prof_60@spjain.edu,24-Apr-2025,31-Aug-2025,25,27,18,7.6,23,9.2,6.44,6.77,8.61,Yes,4,No,8.0,Very Positive
+SG,GMBA,Jan-24,Corporate Finance,22,Prof_Harris,prof_37@spjain.edu,25-Jan-2025,05-Sep-2025,12,15,13,7.9,13,9.46,9.61,6.66,7.01,No,8,Yes,7.4,Positive
+SYD,GCGM,Jan-22,Financial Markets,43,Prof_Miller,prof_9@spjain.edu,29-Oct-2024,25-Sep-2025,22,26,23,6.2,24,7.91,9.68,8.12,7.17,Yes,10,No,6.8,Very Positive
+MUM,GMBA,Jan-24,Digital Marketing,39,Prof_Anderson,prof_59@spjain.edu,21-Mar-2025,29-Aug-2025,7,36,35,8.3,36,7.27,7.04,8.68,7.94,Yes,6,Yes,7.9,Negative
+SG,GCGM,Jan-24,International Business,36,Prof_Anderson,prof_85@spjain.edu,07-Jul-2025,30-Aug-2025,13,25,22,9.5,21,7.48,6.63,9.33,9.11,Yes,10,No,6.5,Very Positive
+SG,GMBA,Jan-24,Operations Management,28,Prof_White,prof_36@spjain.edu,07-Aug-2025,27-Sep-2025,14,25,20,8.9,21,8.75,9.41,8.02,7.75,No,2,Yes,6.8,Neutral
+MUM,GMBA,Jul-23,Marketing Research,42,Prof_Thomas,prof_6@spjain.edu,27-Feb-2025,21-Sep-2025,18,42,29,6.4,35,8.18,9.34,8.33,7.44,Yes,4,Yes,6.6,Neutral
+DXB,GMBA,Jul-24,Operations Management,49,Prof_Davis,prof_49@spjain.edu,10-Aug-2025,31-Aug-2025,12,34,25,9.5,27,6.72,9.7,9.13,8.24,No,5,Yes,7.4,Positive
+DXB,MGB,Jan-23,Financial Accounting,27,Prof_Taylor,prof_4@spjain.edu,01-Jul-2025,30-Aug-2025,5,26,21,7.6,22,9.46,9.87,7.12,8.92,No,8,Yes,8.9,Neutral
+SG,GCGM,Jan-24,Leadership & Change,31,Prof_Jones,prof_47@spjain.edu,21-Jan-2025,25-Sep-2025,15,24,24,6.5,23,6.76,6.18,7.74,8.56,No,10,No,8.9,Very Positive
+SYD,GMBA,Jan-23,Risk Management,33,Prof_Smith,prof_39@spjain.edu,05-Apr-2025,21-Sep-2025,15,25,21,8.2,21,7.68,9.76,8.71,9.71,No,6,No,7.9,Negative
+DXB,MGB,Jul-24,International Business,36,Prof_Jones,prof_19@spjain.edu,17-Aug-2025,26-Sep-2025,20,26,19,7.1,25,8.53,7.34,9.27,9.25,Yes,6,No,7.3,Very Positive
+DXB,MGB,Jul-24,Financial Markets,26,Prof_Harris,prof_7@spjain.edu,17-Nov-2024,20-Sep-2025,17,22,21,7.0,22,8.75,9.57,9.44,9.66,Yes,8,No,7.3,Positive
+DXB,GMBA,Jan-24,Marketing Research,39,Prof_Garcia,prof_82@spjain.edu,10-Apr-2025,03-Sep-2025,15,37,34,9.3,37,7.71,9.63,7.78,7.48,No,9,Yes,8.1,Neutral
+DXB,GCGM,Jul-24,Supply Chain Management,27,Prof_Taylor,prof_70@spjain.edu,03-Jan-2025,14-Sep-2025,13,21,19,9.6,16,6.55,6.93,8.78,9.12,Yes,3,Yes,8.0,Negative
+DXB,GMBA,Jul-24,Corporate Finance,47,Prof_Garcia,prof_63@spjain.edu,09-May-2025,19-Sep-2025,23,40,35,6.0,37,7.19,7.56,9.57,9.51,No,10,No,9.1,Very Positive
+DXB,MGB,Jul-24,Risk Management,45,Prof_Harris,prof_24@spjain.edu,04-Aug-2025,19-Sep-2025,17,32,29,9.7,25,9.63,8.37,8.65,7.25,No,8,No,7.0,Positive
+DXB,MGB,Jan-23,Data Science,28,Prof_Johnson,prof_97@spjain.edu,14-Aug-2025,20-Sep-2025,18,20,20,6.3,16,9.0,6.21,9.81,7.67,Yes,3,Yes,9.2,Positive
+MUM,GCGM,Jul-23,Risk Management,23,Prof_Davis,prof_75@spjain.edu,16-Aug-2025,29-Aug-2025,23,16,14,8.8,14,6.67,8.43,8.99,7.34,No,4,No,9.9,Negative
+MUM,GCGM,Jan-24,Innovation Management,27,Prof_Thomas,prof_9@spjain.edu,13-Dec-2024,07-Sep-2025,8,27,22,9.4,25,9.22,9.18,8.26,7.12,No,10,Yes,8.0,Negative
+DXB,GCGM,Jul-23,Consumer Behavior,40,Prof_Martinez,prof_42@spjain.edu,26-Apr-2025,01-Sep-2025,19,28,25,6.7,26,9.86,7.08,9.23,8.61,Yes,9,No,8.1,Negative
+MUM,MGB,Jan-24,Business Intelligence,41,Prof_Jones,prof_11@spjain.edu,28-Apr-2025,04-Sep-2025,17,34,23,8.0,32,6.73,6.85,9.19,8.02,No,6,No,8.4,Positive
+DXB,GMBA,Jul-24,Business Law,34,Prof_Taylor,prof_46@spjain.edu,09-Jan-2025,19-Sep-2025,5,21,18,6.9,21,6.97,8.66,7.48,8.66,No,7,No,8.0,Positive
+SG,GMBA,Jul-22,Investment Banking,23,Prof_Anderson,prof_30@spjain.edu,26-Feb-2025,22-Sep-2025,22,15,11,6.9,15,7.11,8.36,9.04,8.79,No,3,Yes,9.4,Positive
+SYD,GCGM,Jan-22,Marketing Research,29,Prof_Martin,prof_15@spjain.edu,27-Jul-2025,15-Sep-2025,9,27,25,6.4,21,8.3,7.88,7.76,7.55,No,2,Yes,7.4,Very Positive
+MUM,GCGM,Jan-24,Supply Chain Management,22,Prof_Johnson,prof_79@spjain.edu,10-Jul-2025,03-Sep-2025,12,14,13,9.1,12,9.1,7.52,9.63,7.89,Yes,8,Yes,7.6,Neutral
+SG,GCGM,Jul-22,Human Resource Management,37,Prof_Garcia,prof_34@spjain.edu,13-Oct-2024,09-Sep-2025,7,27,18,7.6,26,8.38,7.17,6.93,9.12,Yes,9,No,6.7,Very Positive
+MUM,GMBA,Jul-22,Organizational Behavior,46,Prof_Jackson,prof_35@spjain.edu,16-Dec-2024,10-Sep-2025,9,29,20,6.7,25,8.38,9.3,9.68,8.32,No,9,No,8.9,Very Positive
+SG,MGB,Jul-24,Investment Banking,39,Prof_Miller,prof_61@spjain.edu,07-Dec-2024,07-Sep-2025,13,23,17,6.9,23,9.34,8.3,9.8,10.0,No,6,No,8.5,Positive
+DXB,GMBA,Jul-23,Business Analytics,35,Prof_Johnson,prof_59@spjain.edu,15-Jul-2025,17-Sep-2025,16,27,23,7.3,21,9.43,7.32,8.77,7.86,No,8,No,9.3,Very Positive
+DXB,GMBA,Jan-22,Risk Management,47,Prof_Wilson,prof_37@spjain.edu,17-Jan-2025,30-Aug-2025,22,42,35,6.2,41,7.45,9.03,8.5,9.28,No,5,Yes,7.4,Very Positive
+MUM,GMBA,Jul-22,Supply Chain Management,37,Prof_Martinez,prof_54@spjain.edu,25-Dec-2024,12-Sep-2025,5,35,25,6.9,29,7.85,6.47,9.33,8.5,Yes,6,No,8.3,Positive
+DXB,GCGM,Jan-24,Global Economics,43,Prof_Martin,prof_20@spjain.edu,13-Jan-2025,10-Sep-2025,9,27,22,9.1,27,7.66,9.74,8.03,9.46,No,6,No,9.0,Neutral
+DXB,MGB,Jan-23,International Business,42,Prof_Wilson,prof_64@spjain.edu,11-Aug-2025,23-Sep-2025,12,37,28,9.4,35,6.17,8.98,8.82,9.43,No,8,Yes,10.0,Negative
+SG,GMBA,Jul-23,Corporate Finance,43,Prof_Jackson,prof_41@spjain.edu,13-Oct-2024,05-Sep-2025,9,38,36,9.9,31,7.88,9.88,7.35,9.08,No,3,Yes,9.5,Very Positive
+MUM,GMBA,Jul-24,Supply Chain Management,27,Prof_Johnson,prof_38@spjain.edu,27-Feb-2025,16-Sep-2025,7,22,16,9.0,22,9.49,7.77,8.78,9.71,No,2,Yes,7.6,Positive
+DXB,GMBA,Jul-24,Human Resource Management,25,Prof_Smith,prof_60@spjain.edu,04-Apr-2025,06-Sep-2025,10,16,15,9.5,16,8.73,7.99,8.33,7.7,Yes,6,Yes,8.1,Negative
+SYD,GMBA,Jan-23,Innovation Management,50,Prof_Anderson,prof_3@spjain.edu,08-Feb-2025,19-Sep-2025,18,38,33,9.4,33,10.0,9.41,6.43,8.14,Yes,7,Yes,8.5,Negative
+SYD,GCGM,Jan-24,Consumer Behavior,27,Prof_Thomas,prof_94@spjain.edu,23-Jun-2025,25-Sep-2025,25,19,17,7.0,16,8.51,9.61,8.59,7.93,No,9,No,6.6,Negative
+MUM,GCGM,Jul-22,Marketing Research,48,Prof_Harris,prof_10@spjain.edu,18-Jun-2025,03-Sep-2025,16,44,38,9.7,37,7.03,9.3,7.93,9.42,Yes,7,No,9.3,Neutral
+SG,MGB,Jan-22,Organizational Behavior,37,Prof_Taylor,prof_79@spjain.edu,08-May-2025,07-Sep-2025,8,36,30,8.7,32,8.34,9.29,9.76,7.33,Yes,5,No,8.2,Neutral
+DXB,GCGM,Jul-22,Digital Marketing,50,Prof_Wilson,prof_54@spjain.edu,28-Sep-2024,24-Sep-2025,6,39,34,6.5,34,9.55,6.54,7.81,9.01,No,10,No,8.0,Neutral
+SG,GMBA,Jan-23,International Business,34,Prof_Davis,prof_59@spjain.edu,14-Jul-2025,06-Sep-2025,19,23,21,6.4,23,7.47,9.61,8.58,7.18,Yes,6,Yes,7.2,Very Positive
+SYD,GCGM,Jul-22,Financial Markets,26,Prof_Martinez,prof_23@spjain.edu,04-Jul-2025,06-Sep-2025,7,23,19,8.3,19,7.31,6.59,9.6,7.01,Yes,4,Yes,10.0,Very Positive
+SYD,GCGM,Jan-24,Investment Banking,20,Prof_Harris,prof_65@spjain.edu,08-May-2025,08-Sep-2025,10,16,11,6.5,15,8.1,8.98,7.9,9.33,Yes,10,No,8.6,Negative
+SG,GCGM,Jul-23,Data Science,33,Prof_Jackson,prof_77@spjain.edu,01-Dec-2024,18-Sep-2025,8,26,25,6.3,20,7.29,6.59,6.5,8.87,No,10,No,9.0,Very Positive
+SG,GMBA,Jul-24,Marketing Research,43,Prof_Martinez,prof_48@spjain.edu,12-Jun-2025,06-Sep-2025,11,38,33,9.6,36,7.36,7.81,7.66,7.29,No,8,Yes,7.6,Very Positive
+SG,GCGM,Jul-23,Strategic Management,43,Prof_Johnson,prof_37@spjain.edu,26-Oct-2024,18-Sep-2025,16,29,28,6.2,27,8.25,8.68,7.64,9.62,No,8,Yes,9.5,Positive
+MUM,GMBA,Jul-23,Financial Accounting,47,Prof_Martinez,prof_4@spjain.edu,29-May-2025,19-Sep-2025,8,39,35,7.5,35,8.3,9.23,9.38,9.92,No,10,No,6.6,Neutral
+SG,GCGM,Jul-22,Financial Markets,41,Prof_Taylor,prof_100@spjain.edu,12-Nov-2024,08-Sep-2025,17,26,20,9.0,20,6.37,8.12,7.5,8.36,Yes,4,Yes,7.8,Positive
+MUM,GMBA,Jan-22,Risk Management,22,Prof_Martin,prof_68@spjain.edu,25-Mar-2025,26-Sep-2025,13,20,19,7.7,20,7.77,7.09,9.02,7.34,Yes,8,No,6.9,Very Positive
+SG,GCGM,Jan-23,International Business,44,Prof_Thomas,prof_10@spjain.edu,07-Feb-2025,31-Aug-2025,9,34,27,7.3,27,7.99,7.72,6.52,8.6,Yes,5,No,8.3,Very Positive
+DXB,GCGM,Jan-23,Financial Markets,33,Prof_Davis,prof_32@spjain.edu,18-Jan-2025,09-Sep-2025,23,25,23,7.2,23,6.08,7.3,9.21,8.85,No,7,Yes,6.8,Negative
+SYD,GMBA,Jan-23,Financial Accounting,30,Prof_Wilson,prof_33@spjain.edu,20-May-2025,22-Sep-2025,10,19,17,8.5,19,8.04,9.62,7.4,9.18,Yes,4,Yes,7.3,Positive
+DXB,MGB,Jan-24,Financial Markets,34,Prof_Thomas,prof_65@spjain.edu,23-Jul-2025,18-Sep-2025,23,30,30,7.3,29,7.26,7.76,7.88,8.89,No,6,No,8.6,Very Positive
+SG,MGB,Jan-23,Business Analytics,40,Prof_Martin,prof_65@spjain.edu,13-Jun-2025,26-Sep-2025,7,40,34,7.9,40,9.82,8.96,6.16,9.73,No,5,Yes,7.6,Neutral
+SG,GMBA,Jul-24,Human Resource Management,21,Prof_Johnson,prof_81@spjain.edu,02-Oct-2024,17-Sep-2025,12,19,16,8.1,19,6.63,7.49,7.13,8.23,Yes,7,No,8.9,Very Positive
+DXB,MGB,Jan-23,Risk Management,50,Prof_Brown,prof_40@spjain.edu,16-Nov-2024,15-Sep-2025,24,34,28,6.3,29,9.67,7.24,8.62,8.99,No,4,Yes,8.6,Very Positive
+DXB,GMBA,Jan-23,Corporate Finance,31,Prof_Johnson,prof_85@spjain.edu,10-Mar-2025,30-Aug-2025,14,20,15,7.4,19,6.77,10.0,6.62,7.89,Yes,3,No,8.3,Positive
+MUM,GCGM,Jul-24,Business Intelligence,45,Prof_Anderson,prof_61@spjain.edu,22-May-2025,16-Sep-2025,10,41,28,7.6,35,9.88,8.44,9.01,9.35,No,5,No,8.4,Neutral
+DXB,GMBA,Jan-24,Leadership & Change,50,Prof_Anderson,prof_11@spjain.edu,08-Jun-2025,19-Sep-2025,10,36,34,6.6,32,6.21,7.92,7.48,9.8,No,10,Yes,9.5,Negative
+SG,GCGM,Jul-23,Consumer Behavior,49,Prof_Taylor,prof_19@spjain.edu,20-Jun-2025,26-Sep-2025,5,42,29,7.6,38,6.94,9.98,7.5,7.08,No,3,No,9.4,Positive
+DXB,MGB,Jan-24,Corporate Finance,48,Prof_Davis,prof_7@spjain.edu,29-Apr-2025,14-Sep-2025,7,28,23,6.9,23,8.2,8.91,8.11,7.33,No,6,Yes,7.3,Very Positive
+DXB,GMBA,Jan-24,Corporate Finance,40,Prof_Thomas,prof_9@spjain.edu,03-Dec-2024,10-Sep-2025,21,31,23,7.2,24,8.46,6.96,7.67,8.99,Yes,3,No,8.3,Negative
+SG,GMBA,Jul-23,Consumer Behavior,28,Prof_Taylor,prof_83@spjain.edu,01-Jun-2025,01-Sep-2025,5,21,15,7.4,21,8.63,6.41,8.33,9.27,No,4,No,6.7,Positive
+MUM,GCGM,Jul-24,Project Management,21,Prof_Jones,prof_37@spjain.edu,28-Feb-2025,31-Aug-2025,14,15,10,9.2,12,7.26,7.24,7.59,9.45,Yes,9,No,7.4,Neutral
+SG,MGB,Jul-23,Data Science,43,Prof_Brown,prof_56@spjain.edu,25-Oct-2024,01-Sep-2025,19,37,30,9.9,36,8.77,7.47,9.19,7.8,Yes,3,No,9.0,Neutral
+SG,GCGM,Jan-23,Risk Management,29,Prof_Johnson,prof_10@spjain.edu,07-Oct-2024,15-Sep-2025,14,24,22,6.7,22,7.41,6.17,9.48,8.06,No,8,Yes,7.5,Very Positive
+MUM,GMBA,Jul-24,Project Management,21,Prof_Thomas,prof_57@spjain.edu,21-Jul-2025,09-Sep-2025,9,13,10,9.1,12,7.45,9.8,6.13,7.46,Yes,9,No,9.8,Negative
+SYD,GMBA,Jan-23,Financial Accounting,50,Prof_Anderson,prof_89@spjain.edu,21-Dec-2024,21-Sep-2025,8,30,23,8.0,27,9.65,6.47,9.1,9.11,Yes,5,Yes,10.0,Very Positive
+DXB,GCGM,Jul-24,Project Management,22,Prof_Garcia,prof_16@spjain.edu,19-May-2025,02-Sep-2025,15,18,17,6.3,18,7.16,7.2,6.63,9.13,Yes,4,Yes,9.3,Negative
+SG,MGB,Jan-24,Financial Markets,31,Prof_Brown,prof_17@spjain.edu,20-Mar-2025,07-Sep-2025,19,30,29,6.5,24,6.26,7.59,8.87,8.44,Yes,8,No,9.2,Negative
+SYD,GCGM,Jan-24,Innovation Management,38,Prof_Garcia,prof_45@spjain.edu,07-Dec-2024,30-Aug-2025,10,26,24,8.0,26,6.22,6.5,6.61,7.49,No,7,Yes,9.8,Neutral
+MUM,GMBA,Jan-24,Organizational Behavior,24,Prof_Johnson,prof_4@spjain.edu,19-Jul-2025,26-Sep-2025,25,18,16,8.1,18,8.56,8.37,8.32,7.51,No,7,Yes,9.4,Negative
+SG,MGB,Jul-24,Marketing Research,29,Prof_Jones,prof_44@spjain.edu,23-Oct-2024,23-Sep-2025,25,21,21,7.0,21,7.62,7.81,8.75,7.47,No,8,No,8.2,Neutral
+DXB,GCGM,Jan-23,Global Economics,37,Prof_Miller,prof_42@spjain.edu,07-Nov-2024,04-Sep-2025,8,32,25,7.9,29,7.8,6.56,6.2,9.84,No,8,Yes,7.4,Positive
+DXB,GMBA,Jul-23,Business Law,48,Prof_Martin,prof_37@spjain.edu,28-Nov-2024,27-Sep-2025,14,43,30,6.4,40,8.02,9.87,6.86,8.06,Yes,2,No,7.5,Positive
+SYD,GMBA,Jan-23,Data Science,31,Prof_Davis,prof_17@spjain.edu,11-Jul-2025,15-Sep-2025,6,24,16,8.3,20,7.45,7.15,7.55,8.35,No,10,No,7.5,Neutral
+MUM,GCGM,Jan-24,Global Economics,32,Prof_Taylor,prof_21@spjain.edu,09-Feb-2025,08-Sep-2025,21,19,13,6.2,17,9.22,8.08,6.6,9.68,No,4,No,7.6,Negative
+SYD,MGB,Jan-22,Consumer Behavior,30,Prof_Martin,prof_22@spjain.edu,04-Dec-2024,07-Sep-2025,8,24,20,9.2,24,9.49,8.52,8.39,7.8,No,5,Yes,9.0,Positive
+SG,GMBA,Jul-24,Strategic Management,26,Prof_Jones,prof_72@spjain.edu,16-Mar-2025,06-Sep-2025,5,22,20,7.7,20,8.76,7.64,9.1,9.76,No,2,No,9.0,Neutral
+MUM,MGB,Jan-24,Investment Banking,37,Prof_Martin,prof_41@spjain.edu,27-Dec-2024,16-Sep-2025,16,30,30,7.9,25,7.12,7.19,9.77,9.95,No,6,No,9.0,Very Positive
+DXB,MGB,Jan-23,Operations Management,29,Prof_Martinez,prof_18@spjain.edu,05-Jul-2025,08-Sep-2025,6,21,15,7.4,19,8.62,8.99,6.86,9.48,Yes,6,Yes,9.8,Very Positive
+MUM,GMBA,Jul-22,Digital Marketing,23,Prof_Jones,prof_97@spjain.edu,04-Apr-2025,17-Sep-2025,18,18,17,7.9,15,6.02,8.2,9.72,8.22,No,9,Yes,8.2,Very Positive
+MUM,GMBA,Jul-24,Digital Marketing,49,Prof_Smith,prof_39@spjain.edu,12-Nov-2024,08-Sep-2025,10,42,42,6.7,33,9.99,7.59,7.98,9.81,Yes,6,No,9.6,Neutral
+DXB,GMBA,Jan-24,Global Economics,35,Prof_Taylor,prof_38@spjain.edu,12-Nov-2024,06-Sep-2025,9,34,31,7.9,30,9.24,7.32,8.92,8.94,Yes,4,Yes,6.5,Negative
+DXB,GMBA,Jan-23,Business Analytics,32,Prof_Smith,prof_34@spjain.edu,29-Sep-2024,16-Sep-2025,8,21,16,7.9,17,6.03,7.53,7.79,7.8,Yes,7,Yes,7.6,Very Positive
+DXB,MGB,Jul-22,Data Science,41,Prof_Thomas,prof_54@spjain.edu,21-Nov-2024,29-Aug-2025,21,33,24,8.6,30,7.47,6.88,9.83,8.43,No,9,Yes,9.1,Positive
+SG,GMBA,Jul-23,Global Economics,42,Prof_Harris,prof_15@spjain.edu,16-May-2025,05-Sep-2025,16,27,27,6.4,27,8.19,8.02,8.29,7.45,No,7,Yes,9.5,Negative
+SG,MGB,Jul-22,Global Economics,33,Prof_Johnson,prof_55@spjain.edu,06-Mar-2025,05-Sep-2025,19,28,19,8.2,27,9.23,8.89,7.58,9.45,Yes,5,Yes,8.5,Very Positive
+DXB,GCGM,Jan-23,Leadership & Change,25,Prof_Thomas,prof_16@spjain.edu,30-May-2025,10-Sep-2025,9,25,23,7.5,23,7.79,9.67,7.51,7.24,No,10,Yes,7.0,Positive
+SG,GCGM,Jan-23,Project Management,41,Prof_White,prof_79@spjain.edu,21-Aug-2025,20-Sep-2025,22,37,33,7.5,32,6.99,7.38,7.1,9.81,Yes,3,Yes,6.6,Very Positive
+SG,MGB,Jan-24,Risk Management,42,Prof_Taylor,prof_74@spjain.edu,27-Oct-2024,03-Sep-2025,6,32,22,7.6,28,8.16,9.02,9.1,7.42,No,6,Yes,7.3,Neutral
+MUM,GMBA,Jan-24,Financial Accounting,33,Prof_Thomas,prof_83@spjain.edu,15-Feb-2025,02-Sep-2025,14,23,16,8.2,22,9.52,9.65,8.5,8.28,No,9,No,6.7,Negative
+MUM,MGB,Jul-23,Human Resource Management,44,Prof_Wilson,prof_50@spjain.edu,27-Apr-2025,19-Sep-2025,22,41,31,9.4,36,9.43,6.58,7.85,7.17,Yes,8,No,9.9,Very Positive
+DXB,MGB,Jan-22,Marketing Research,43,Prof_Jones,prof_43@spjain.edu,27-Mar-2025,29-Aug-2025,11,26,22,7.5,24,8.41,9.49,6.75,9.29,Yes,10,Yes,7.3,Positive
+SG,GMBA,Jul-23,Financial Accounting,42,Prof_Martin,prof_60@spjain.edu,10-Jul-2025,02-Sep-2025,24,31,27,9.7,29,9.1,7.52,8.13,8.08,No,6,No,7.8,Positive
+SYD,MGB,Jul-23,Digital Marketing,38,Prof_Garcia,prof_64@spjain.edu,21-Nov-2024,07-Sep-2025,12,26,18,7.0,24,8.32,7.67,6.61,7.99,No,8,No,8.5,Negative
+DXB,MGB,Jul-22,Consumer Behavior,25,Prof_Johnson,prof_98@spjain.edu,26-Aug-2025,14-Sep-2025,9,23,23,6.7,22,9.96,9.83,8.1,9.52,Yes,3,Yes,9.8,Very Positive
+MUM,GCGM,Jul-22,Global Economics,34,Prof_Martinez,prof_69@spjain.edu,05-Apr-2025,27-Sep-2025,16,20,18,8.6,20,9.65,8.64,6.06,8.6,No,8,Yes,6.5,Very Positive
+SG,GMBA,Jul-22,Financial Accounting,26,Prof_Garcia,prof_39@spjain.edu,19-Jul-2025,07-Sep-2025,24,23,20,9.3,20,9.18,6.32,9.84,8.38,Yes,5,Yes,10.0,Negative
+DXB,MGB,Jan-24,Business Law,21,Prof_Garcia,prof_28@spjain.edu,12-Nov-2024,12-Sep-2025,25,12,9,6.3,12,8.58,7.33,9.91,9.92,No,10,Yes,9.7,Very Positive
+SYD,GMBA,Jan-24,Risk Management,21,Prof_Garcia,prof_73@spjain.edu,11-Feb-2025,06-Sep-2025,10,17,11,9.8,17,6.58,9.28,9.28,9.79,No,6,No,7.1,Positive
+SG,GMBA,Jul-24,Consumer Behavior,21,Prof_Martinez,prof_58@spjain.edu,21-Dec-2024,20-Sep-2025,8,18,13,9.4,16,8.42,8.46,8.38,9.91,No,7,No,6.6,Negative
+MUM,GMBA,Jan-24,Risk Management,32,Prof_Taylor,prof_47@spjain.edu,06-Jul-2025,25-Sep-2025,7,31,30,7.2,27,8.85,6.33,6.62,9.14,Yes,4,No,9.1,Negative
+SYD,MGB,Jan-22,Operations Management,22,Prof_Smith,prof_38@spjain.edu,30-Jan-2025,15-Sep-2025,10,19,16,8.2,19,7.63,6.11,7.42,7.28,Yes,7,Yes,9.5,Positive
+DXB,GCGM,Jul-22,Organizational Behavior,29,Prof_Martin,prof_77@spjain.edu,18-Oct-2024,21-Sep-2025,13,24,18,6.3,22,7.1,7.2,9.13,8.08,No,5,Yes,9.0,Positive
+SYD,GCGM,Jul-23,Investment Banking,46,Prof_Jones,prof_62@spjain.edu,22-Mar-2025,22-Sep-2025,24,39,39,9.4,38,7.34,9.26,9.44,9.92,No,4,No,7.6,Neutral
+DXB,GMBA,Jul-22,Investment Banking,32,Prof_Jones,prof_57@spjain.edu,02-Apr-2025,01-Sep-2025,13,32,28,7.5,28,8.37,8.18,8.73,8.65,Yes,9,No,9.8,Negative
+MUM,GMBA,Jan-23,Financial Accounting,28,Prof_Thomas,prof_90@spjain.edu,28-Nov-2024,08-Sep-2025,9,27,24,9.2,21,7.8,8.39,8.33,8.6,Yes,8,Yes,8.4,Positive
+SYD,GCGM,Jul-24,Business Intelligence,21,Prof_Garcia,prof_58@spjain.edu,19-Feb-2025,15-Sep-2025,23,18,18,7.3,17,6.42,6.39,6.89,9.24,No,10,Yes,8.5,Neutral
+SG,MGB,Jan-22,Supply Chain Management,33,Prof_Harris,prof_93@spjain.edu,10-Jan-2025,17-Sep-2025,7,20,20,9.8,17,7.39,7.37,9.14,8.56,Yes,7,No,8.2,Very Positive
+SG,GCGM,Jan-23,Innovation Management,23,Prof_White,prof_51@spjain.edu,15-Aug-2025,04-Sep-2025,10,16,15,6.7,13,7.32,7.71,7.85,9.39,Yes,4,No,7.2,Negative
+DXB,GCGM,Jul-24,International Business,26,Prof_Martin,prof_68@spjain.edu,06-Oct-2024,17-Sep-2025,13,26,19,8.3,26,9.49,6.75,7.3,8.37,No,6,No,8.8,Very Positive
+SYD,MGB,Jul-23,Business Intelligence,25,Prof_Wilson,prof_74@spjain.edu,14-Feb-2025,14-Sep-2025,14,24,17,8.7,21,6.47,7.22,6.73,9.08,Yes,10,No,7.9,Positive
+MUM,MGB,Jan-23,Operations Management,25,Prof_Martin,prof_54@spjain.edu,14-Jan-2025,12-Sep-2025,15,22,15,9.5,17,7.94,6.78,7.54,8.68,Yes,9,Yes,7.9,Very Positive
+MUM,MGB,Jan-22,Organizational Behavior,27,Prof_Thomas,prof_70@spjain.edu,08-Aug-2025,03-Sep-2025,22,20,15,9.1,20,8.97,9.06,8.2,7.34,No,3,Yes,7.4,Negative
+SG,GMBA,Jul-24,Financial Accounting,29,Prof_White,prof_22@spjain.edu,18-Oct-2024,23-Sep-2025,6,24,20,7.4,19,7.76,9.98,9.1,7.71,Yes,7,Yes,9.5,Very Positive
+SYD,GMBA,Jan-23,Business Intelligence,37,Prof_White,prof_8@spjain.edu,10-Apr-2025,31-Aug-2025,10,32,26,7.2,29,9.81,8.06,9.6,9.45,Yes,4,Yes,9.9,Positive
+MUM,GMBA,Jan-23,Financial Accounting,44,Prof_Martinez,prof_89@spjain.edu,22-Feb-2025,13-Sep-2025,17,41,30,8.3,36,8.51,7.5,6.3,9.38,No,3,No,7.9,Very Positive
+SG,GMBA,Jul-23,Innovation Management,41,Prof_Martin,prof_44@spjain.edu,05-Aug-2025,26-Sep-2025,16,26,26,7.6,23,9.3,7.98,7.29,7.85,Yes,10,No,8.5,Very Positive
+SG,GCGM,Jul-23,Project Management,20,Prof_Miller,prof_7@spjain.edu,08-Feb-2025,07-Sep-2025,18,15,15,9.6,14,6.64,9.73,7.1,8.96,No,6,Yes,6.8,Negative
+SG,GMBA,Jan-22,Corporate Finance,26,Prof_Martin,prof_10@spjain.edu,04-May-2025,15-Sep-2025,20,16,12,8.4,16,8.72,6.04,8.78,9.45,Yes,8,Yes,8.9,Very Positive
+SYD,MGB,Jan-23,Operations Management,32,Prof_Harris,prof_28@spjain.edu,16-Jul-2025,30-Aug-2025,9,29,22,6.3,27,6.03,8.6,7.76,9.17,Yes,4,Yes,9.7,Very Positive
+DXB,MGB,Jul-23,Investment Banking,45,Prof_Anderson,prof_27@spjain.edu,07-Dec-2024,08-Sep-2025,9,34,27,8.6,30,8.21,8.4,8.43,9.34,Yes,2,No,9.5,Neutral
+SG,GCGM,Jul-23,Data Science,23,Prof_White,prof_47@spjain.edu,23-Nov-2024,06-Sep-2025,12,20,19,8.4,20,9.55,6.05,7.44,7.95,Yes,8,No,9.5,Very Positive
+SG,GMBA,Jan-22,Corporate Finance,28,Prof_Wilson,prof_36@spjain.edu,18-Jul-2025,18-Sep-2025,11,16,11,9.8,15,8.03,8.51,8.0,8.25,Yes,8,Yes,6.8,Positive
+SYD,MGB,Jan-24,Innovation Management,44,Prof_Johnson,prof_40@spjain.edu,01-Jun-2025,24-Sep-2025,25,28,23,8.8,27,9.81,6.95,6.98,9.77,Yes,3,Yes,8.1,Very Positive
+MUM,MGB,Jan-23,Global Economics,36,Prof_Martinez,prof_68@spjain.edu,28-Jul-2025,19-Sep-2025,13,26,23,6.5,26,9.49,8.93,6.47,9.7,Yes,7,No,9.3,Negative
+SYD,GCGM,Jul-23,Financial Markets,25,Prof_Martin,prof_47@spjain.edu,14-Feb-2025,29-Aug-2025,16,17,13,9.1,17,8.7,6.46,8.96,7.01,Yes,2,Yes,7.4,Very Positive
+DXB,GCGM,Jan-23,Financial Accounting,33,Prof_Brown,prof_60@spjain.edu,07-Apr-2025,03-Sep-2025,15,23,17,8.3,18,8.01,9.61,6.72,9.41,No,2,No,9.8,Very Positive
+DXB,GCGM,Jan-23,International Business,29,Prof_Garcia,prof_20@spjain.edu,26-Aug-2025,29-Aug-2025,23,29,24,9.0,24,7.86,8.37,7.97,9.32,No,5,Yes,9.1,Positive
+SYD,GMBA,Jul-24,Corporate Finance,50,Prof_Wilson,prof_92@spjain.edu,08-Apr-2025,25-Sep-2025,15,30,27,9.4,29,7.23,6.82,9.93,8.26,Yes,2,Yes,9.9,Negative
+SYD,MGB,Jul-24,Business Analytics,38,Prof_Taylor,prof_51@spjain.edu,15-Mar-2025,17-Sep-2025,8,38,28,8.5,36,6.3,8.27,7.74,9.89,No,5,No,7.5,Positive
+SG,GCGM,Jul-22,Financial Markets,23,Prof_Davis,prof_12@spjain.edu,10-Jun-2025,02-Sep-2025,9,14,10,7.8,13,7.63,8.14,9.86,7.62,No,6,Yes,8.1,Positive
+SYD,GCGM,Jan-22,Financial Accounting,50,Prof_Garcia,prof_13@spjain.edu,05-Jan-2025,24-Sep-2025,16,42,37,6.2,37,7.04,9.96,6.12,8.21,Yes,9,Yes,8.4,Very Positive
+SG,GCGM,Jul-22,International Business,46,Prof_Harris,prof_17@spjain.edu,13-Jul-2025,30-Aug-2025,17,38,36,8.5,31,8.33,7.04,9.25,7.07,No,3,Yes,7.2,Very Positive
+DXB,GCGM,Jul-22,Financial Markets,33,Prof_Garcia,prof_83@spjain.edu,31-Mar-2025,12-Sep-2025,17,26,18,7.5,23,6.69,6.86,6.75,7.84,No,4,No,6.6,Very Positive
+SG,MGB,Jul-23,Operations Management,33,Prof_Martin,prof_45@spjain.edu,13-Nov-2024,11-Sep-2025,11,29,28,7.0,29,8.17,6.08,7.53,9.14,No,9,No,8.4,Neutral
+MUM,GCGM,Jan-23,Business Intelligence,27,Prof_Garcia,prof_35@spjain.edu,29-Nov-2024,01-Sep-2025,5,20,14,9.2,19,8.12,9.07,10.0,9.92,Yes,3,Yes,7.4,Negative
+SYD,GCGM,Jul-22,Financial Accounting,38,Prof_Miller,prof_63@spjain.edu,10-Aug-2025,25-Sep-2025,15,33,32,6.1,31,9.79,8.25,8.25,7.56,Yes,9,Yes,8.4,Positive
+SG,GMBA,Jul-23,Corporate Finance,30,Prof_Thomas,prof_10@spjain.edu,19-Feb-2025,05-Sep-2025,24,21,16,7.4,17,9.68,9.38,7.29,7.07,No,4,Yes,9.2,Neutral
+SYD,MGB,Jul-22,Human Resource Management,43,Prof_Anderson,prof_17@spjain.edu,31-May-2025,04-Sep-2025,18,40,38,7.3,40,8.77,9.72,9.15,7.67,Yes,4,No,7.8,Very Positive
+MUM,GMBA,Jan-23,Business Intelligence,27,Prof_Taylor,prof_58@spjain.edu,24-Aug-2025,19-Sep-2025,25,25,18,9.7,21,7.32,6.31,7.39,7.96,Yes,3,Yes,9.4,Very Positive
+SYD,MGB,Jan-22,Corporate Finance,21,Prof_Garcia,prof_21@spjain.edu,10-Jan-2025,25-Sep-2025,17,19,18,7.7,16,9.54,7.97,7.51,8.64,Yes,3,No,9.4,Very Positive
+SYD,MGB,Jan-22,Business Analytics,30,Prof_White,prof_84@spjain.edu,06-Jun-2025,08-Sep-2025,10,24,18,8.9,23,9.77,9.91,7.35,9.96,No,9,Yes,9.0,Very Positive
+SG,MGB,Jul-22,International Business,33,Prof_Thomas,prof_1@spjain.edu,23-Jan-2025,25-Sep-2025,22,30,29,7.1,26,7.19,6.38,7.57,8.65,No,9,No,7.0,Positive
+SG,GCGM,Jul-22,Human Resource Management,40,Prof_Thomas,prof_49@spjain.edu,21-Feb-2025,22-Sep-2025,14,26,25,9.4,22,9.14,7.88,9.58,7.8,No,10,Yes,7.9,Neutral
+DXB,MGB,Jan-23,Financial Accounting,46,Prof_Jackson,prof_67@spjain.edu,27-Jan-2025,10-Sep-2025,13,45,31,6.6,37,6.34,7.38,8.17,9.91,No,5,Yes,8.4,Negative
+SYD,GCGM,Jul-23,Digital Marketing,36,Prof_Brown,prof_88@spjain.edu,19-Jan-2025,21-Sep-2025,23,25,18,9.8,23,6.69,9.94,9.89,9.43,Yes,4,No,6.6,Neutral
+SG,GCGM,Jul-23,Marketing Research,32,Prof_Davis,prof_14@spjain.edu,14-Nov-2024,03-Sep-2025,22,24,20,8.1,19,9.15,8.49,8.09,8.26,Yes,8,No,7.0,Neutral
+DXB,MGB,Jul-23,Innovation Management,35,Prof_Taylor,prof_89@spjain.edu,30-Apr-2025,26-Sep-2025,23,30,28,6.1,26,7.61,8.47,8.72,8.21,No,8,No,9.6,Neutral
+SG,MGB,Jan-23,Supply Chain Management,28,Prof_Brown,prof_25@spjain.edu,15-Jan-2025,21-Sep-2025,20,27,19,9.9,22,6.54,9.9,7.77,9.48,No,6,No,9.1,Neutral
+SG,GMBA,Jul-22,Business Analytics,29,Prof_Harris,prof_7@spjain.edu,26-Feb-2025,05-Sep-2025,21,23,18,9.1,22,9.52,6.12,6.77,9.5,Yes,2,No,7.4,Neutral
+DXB,GMBA,Jul-23,Innovation Management,49,Prof_Martinez,prof_96@spjain.edu,14-Jul-2025,18-Sep-2025,8,29,23,7.5,27,7.78,9.84,7.9,8.65,Yes,7,No,7.1,Very Positive
+MUM,GMBA,Jul-22,Financial Accounting,40,Prof_Smith,prof_29@spjain.edu,22-Apr-2025,08-Sep-2025,12,30,25,8.6,28,6.08,9.12,9.07,7.03,No,4,No,8.8,Negative
+DXB,MGB,Jul-23,Organizational Behavior,26,Prof_Anderson,prof_39@spjain.edu,05-Jul-2025,12-Sep-2025,19,19,18,8.1,19,7.59,6.41,8.05,8.99,Yes,7,No,8.5,Neutral
+SYD,MGB,Jan-23,Innovation Management,42,Prof_Smith,prof_84@spjain.edu,18-Dec-2024,18-Sep-2025,25,34,26,6.6,30,9.6,9.22,9.21,8.8,No,7,No,8.9,Negative
+DXB,GMBA,Jan-22,Financial Markets,42,Prof_Miller,prof_85@spjain.edu,17-Nov-2024,22-Sep-2025,23,31,26,8.9,27,8.75,8.55,7.9,9.82,No,7,Yes,8.3,Negative
+MUM,GMBA,Jan-23,Marketing Research,44,Prof_Anderson,prof_60@spjain.edu,30-Jun-2025,12-Sep-2025,10,36,35,6.4,33,6.89,9.49,7.68,9.66,Yes,7,Yes,7.4,Negative
+MUM,GMBA,Jan-22,Risk Management,32,Prof_Miller,prof_100@spjain.edu,19-Jul-2025,12-Sep-2025,21,23,22,6.2,19,6.55,6.8,7.64,8.71,No,9,Yes,7.0,Neutral
+SG,GCGM,Jul-23,Organizational Behavior,26,Prof_Johnson,prof_69@spjain.edu,19-May-2025,04-Sep-2025,10,24,18,8.0,19,6.52,7.73,7.72,8.29,No,9,Yes,7.8,Neutral
+MUM,GCGM,Jul-24,Corporate Finance,40,Prof_Harris,prof_94@spjain.edu,06-Dec-2024,08-Sep-2025,12,31,26,7.2,25,7.53,8.35,6.67,9.47,No,6,No,9.8,Positive
+SYD,MGB,Jan-23,International Business,25,Prof_Martinez,prof_99@spjain.edu,29-Nov-2024,08-Sep-2025,17,15,11,6.9,13,6.84,6.09,8.02,7.37,Yes,2,Yes,7.8,Very Positive
+SG,GCGM,Jul-24,Strategic Management,33,Prof_Martinez,prof_80@spjain.edu,23-Oct-2024,05-Sep-2025,19,25,18,8.2,23,8.81,6.82,8.74,7.03,Yes,8,No,8.8,Very Positive
+SG,MGB,Jan-22,Strategic Management,35,Prof_Jones,prof_89@spjain.edu,26-Dec-2024,17-Sep-2025,11,30,24,9.1,30,8.09,6.81,8.81,7.89,Yes,2,Yes,8.4,Very Positive
+SG,GCGM,Jan-24,Risk Management,35,Prof_Davis,prof_23@spjain.edu,09-Aug-2025,31-Aug-2025,9,22,16,8.9,17,9.62,8.58,7.83,9.93,No,6,No,8.1,Neutral
+DXB,GMBA,Jan-22,Strategic Management,47,Prof_Taylor,prof_24@spjain.edu,02-Jul-2025,15-Sep-2025,6,28,21,8.7,23,7.31,9.58,9.82,7.8,No,3,No,7.8,Neutral
+DXB,GMBA,Jul-23,Leadership & Change,40,Prof_Harris,prof_24@spjain.edu,21-Oct-2024,15-Sep-2025,10,27,20,8.8,21,9.93,9.38,6.41,9.73,No,9,Yes,9.3,Positive
+DXB,MGB,Jan-22,Leadership & Change,34,Prof_Taylor,prof_67@spjain.edu,05-Dec-2024,05-Sep-2025,6,21,18,8.6,16,8.82,8.71,9.07,8.73,Yes,5,No,9.9,Positive
+DXB,MGB,Jul-24,Risk Management,40,Prof_Brown,prof_97@spjain.edu,21-Dec-2024,17-Sep-2025,17,28,27,9.6,26,6.22,8.57,6.63,9.55,Yes,9,No,9.5,Neutral
+SG,GMBA,Jul-22,Marketing Research,40,Prof_Smith,prof_14@spjain.edu,04-Feb-2025,14-Sep-2025,17,36,28,6.3,35,9.21,7.79,9.43,8.34,Yes,3,Yes,9.9,Very Positive
+SYD,GMBA,Jan-24,International Business,40,Prof_Davis,prof_13@spjain.edu,08-May-2025,27-Sep-2025,19,34,28,9.3,30,9.38,7.33,9.07,8.8,No,7,No,9.0,Neutral
+SYD,GMBA,Jan-22,Digital Marketing,48,Prof_Jones,prof_92@spjain.edu,09-Mar-2025,24-Sep-2025,10,43,32,9.3,40,6.43,8.44,6.75,9.79,No,8,Yes,7.3,Very Positive
+DXB,MGB,Jul-24,Financial Markets,50,Prof_Miller,prof_94@spjain.edu,25-Jun-2025,24-Sep-2025,21,34,30,6.0,27,8.21,7.73,8.34,9.77,No,4,No,8.9,Negative
+DXB,GMBA,Jul-24,Financial Accounting,28,Prof_Jones,prof_26@spjain.edu,14-May-2025,08-Sep-2025,17,21,18,7.8,17,6.55,8.41,9.55,8.54,No,10,No,9.5,Positive
+MUM,GMBA,Jan-24,Innovation Management,30,Prof_White,prof_2@spjain.edu,05-Dec-2024,24-Sep-2025,8,30,26,8.2,28,8.28,8.67,7.67,9.24,Yes,10,No,7.5,Positive
+SG,GMBA,Jan-22,International Business,28,Prof_Garcia,prof_96@spjain.edu,02-Oct-2024,10-Sep-2025,10,20,19,7.0,16,8.76,7.18,9.01,7.1,No,9,Yes,6.9,Neutral
+SG,MGB,Jul-23,Leadership & Change,50,Prof_Thomas,prof_97@spjain.edu,01-Nov-2024,10-Sep-2025,15,47,33,6.1,41,6.81,9.48,9.44,8.33,Yes,5,Yes,9.7,Neutral
+DXB,GCGM,Jul-24,Business Analytics,25,Prof_Wilson,prof_6@spjain.edu,12-Jun-2025,29-Aug-2025,10,23,17,7.5,21,7.12,7.06,6.64,9.54,No,2,Yes,7.7,Neutral
+DXB,GMBA,Jan-24,Consumer Behavior,22,Prof_Jones,prof_85@spjain.edu,13-Mar-2025,17-Sep-2025,15,21,17,9.8,20,6.27,8.02,7.66,8.61,No,3,No,7.7,Positive
+DXB,GMBA,Jul-24,Corporate Finance,23,Prof_Davis,prof_50@spjain.edu,20-Apr-2025,10-Sep-2025,16,20,15,9.6,20,9.67,6.98,6.16,9.66,No,8,Yes,9.7,Neutral
+DXB,MGB,Jan-22,Supply Chain Management,48,Prof_Jones,prof_88@spjain.edu,24-Jan-2025,01-Sep-2025,25,34,28,8.1,28,6.67,9.83,8.15,7.02,Yes,3,Yes,7.2,Negative
+SG,GMBA,Jul-24,Operations Management,20,Prof_Harris,prof_81@spjain.edu,03-Feb-2025,14-Sep-2025,19,17,11,6.4,13,6.71,7.01,6.28,9.46,No,6,Yes,7.9,Negative
+SG,GMBA,Jan-22,Innovation Management,43,Prof_Anderson,prof_98@spjain.edu,17-Jan-2025,15-Sep-2025,24,27,27,6.2,27,6.29,9.71,6.42,9.36,No,6,Yes,8.6,Negative
+MUM,GMBA,Jul-22,Operations Management,43,Prof_Smith,prof_71@spjain.edu,18-Nov-2024,23-Sep-2025,17,42,33,9.8,35,7.19,9.55,9.86,9.6,Yes,7,Yes,9.9,Very Positive
+DXB,GMBA,Jan-24,Business Analytics,29,Prof_Miller,prof_86@spjain.edu,12-Nov-2024,31-Aug-2025,11,28,24,6.8,27,9.41,6.57,6.74,8.85,Yes,6,No,7.2,Very Positive
+SYD,GMBA,Jan-22,Organizational Behavior,23,Prof_Harris,prof_43@spjain.edu,18-Oct-2024,06-Sep-2025,11,22,22,9.8,19,6.51,8.62,6.4,8.86,No,5,Yes,7.6,Neutral
+SYD,MGB,Jul-22,Corporate Finance,30,Prof_Thomas,prof_100@spjain.edu,26-Mar-2025,12-Sep-2025,12,30,24,8.8,29,7.74,9.36,6.54,9.2,Yes,9,Yes,8.1,Very Positive
+SYD,GCGM,Jan-24,International Business,28,Prof_Martinez,prof_70@spjain.edu,26-Nov-2024,12-Sep-2025,25,17,16,6.3,13,9.4,8.53,9.25,8.74,Yes,5,No,9.7,Negative
+MUM,GMBA,Jul-24,Supply Chain Management,24,Prof_Wilson,prof_58@spjain.edu,09-Jun-2025,22-Sep-2025,19,22,16,7.6,21,6.04,6.96,9.86,9.95,Yes,4,No,9.2,Neutral

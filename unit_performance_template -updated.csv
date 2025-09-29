@@ -1,0 +1,201 @@
+Course,Cohort,Year,Unit_Name,AI Tutor (Before/After),Total_Avg_score
+GMBA,Jan-24,2022,Corporate Finance,Before,77.2
+GCGM,Jan-22,2022,Financial Accounting,Before,69.2
+MGB,Jan-23,2024,Strategic Management,After,76.9
+MGB,Jul-23,2024,Digital Marketing,Before,66.1
+GMBA,Jul-22,2023,Human Resource Management,Before,71.7
+MGB,Jan-23,2024,Operations Management,Before,72.9
+MGB,Jan-23,2024,Organizational Behavior,Before,65.8
+MGB,Jul-24,2024,Financial Accounting,After,76.2
+GCGM,Jan-24,2022,Operations Management,Before,66.8
+GMBA,Jul-22,2022,Strategic Management,After,84.7
+MGB,Jan-22,2022,Financial Accounting,Before,69.1
+GMBA,Jul-23,2023,Digital Marketing,Before,69.2
+GMBA,Jul-23,2023,Corporate Finance,After,80.8
+GCGM,Jul-22,2022,International Business,Before,74.9
+GMBA,Jan-22,2024,Operations Management,Before,73.1
+MGB,Jan-22,2024,Human Resource Management,After,87.2
+GMBA,Jul-22,2022,Human Resource Management,After,88.0
+GMBA,Jul-24,2022,Digital Marketing,After,89.3
+GMBA,Jan-23,2024,Financial Accounting,After,83.6
+GMBA,Jan-24,2023,Business Analytics,After,82.0
+GCGM,Jul-22,2022,Operations Management,After,76.3
+GCGM,Jan-24,2023,Human Resource Management,After,75.6
+MGB,Jan-23,2023,Operations Management,Before,66.9
+GMBA,Jul-24,2023,Operations Management,Before,71.7
+GCGM,Jul-23,2022,Financial Accounting,Before,79.5
+MGB,Jul-24,2024,Strategic Management,After,75.9
+GCGM,Jan-23,2024,Organizational Behavior,After,89.3
+MGB,Jul-22,2023,Operations Management,After,88.0
+GCGM,Jul-22,2024,Business Analytics,Before,78.1
+GMBA,Jan-22,2022,Digital Marketing,Before,67.8
+GMBA,Jul-23,2024,Human Resource Management,Before,73.3
+GCGM,Jan-22,2024,Operations Management,After,75.2
+MGB,Jan-24,2024,Corporate Finance,Before,70.2
+GCGM,Jan-24,2023,Digital Marketing,Before,68.6
+MGB,Jan-24,2023,International Business,Before,74.6
+MGB,Jul-22,2022,Human Resource Management,After,80.0
+MGB,Jul-24,2023,Financial Accounting,After,84.3
+GCGM,Jan-23,2022,Operations Management,Before,78.7
+GCGM,Jan-22,2024,Strategic Management,After,82.7
+GMBA,Jan-24,2024,Human Resource Management,Before,70.7
+GMBA,Jan-22,2024,Business Analytics,After,86.4
+GMBA,Jan-22,2022,Strategic Management,After,83.1
+GCGM,Jan-24,2022,Supply Chain Management,After,84.9
+GMBA,Jul-23,2023,Operations Management,Before,77.5
+MGB,Jul-22,2023,Strategic Management,After,78.5
+MGB,Jul-24,2022,Strategic Management,After,86.0
+MGB,Jan-23,2022,Human Resource Management,Before,78.7
+GMBA,Jul-23,2024,Strategic Management,After,86.8
+GCGM,Jan-24,2022,Organizational Behavior,Before,76.6
+MGB,Jul-24,2024,Business Analytics,After,86.9
+MGB,Jan-23,2022,Digital Marketing,After,81.3
+GCGM,Jan-24,2023,Strategic Management,Before,78.1
+GCGM,Jul-22,2022,International Business,After,86.5
+GMBA,Jul-23,2024,Digital Marketing,Before,78.0
+MGB,Jan-22,2024,Business Analytics,Before,67.0
+GMBA,Jul-23,2023,Human Resource Management,Before,71.0
+GMBA,Jul-22,2024,Operations Management,Before,70.1
+MGB,Jan-24,2024,Supply Chain Management,Before,79.9
+GCGM,Jan-22,2024,Human Resource Management,After,88.7
+GMBA,Jul-23,2024,International Business,After,86.4
+GMBA,Jul-22,2024,Business Analytics,Before,67.3
+GCGM,Jan-24,2024,Human Resource Management,After,80.7
+MGB,Jul-22,2024,Supply Chain Management,After,89.2
+GCGM,Jul-22,2023,Financial Accounting,After,75.7
+GMBA,Jan-24,2024,Organizational Behavior,After,79.3
+MGB,Jan-23,2022,Business Analytics,Before,77.2
+GMBA,Jul-24,2022,International Business,After,83.6
+GMBA,Jan-23,2022,Human Resource Management,After,77.5
+MGB,Jan-23,2023,Financial Accounting,Before,78.3
+MGB,Jan-23,2024,Digital Marketing,Before,75.0
+GCGM,Jan-22,2022,Organizational Behavior,Before,65.4
+GCGM,Jan-24,2024,Strategic Management,Before,72.3
+GCGM,Jan-23,2022,Operations Management,After,86.0
+GMBA,Jul-22,2023,Operations Management,Before,75.7
+GCGM,Jul-23,2023,Financial Accounting,After,76.3
+GCGM,Jan-23,2024,Digital Marketing,After,87.1
+GMBA,Jul-22,2024,Digital Marketing,After,77.4
+MGB,Jan-23,2023,Organizational Behavior,Before,75.6
+MGB,Jan-22,2023,Digital Marketing,After,77.9
+GMBA,Jul-24,2024,Corporate Finance,Before,68.7
+GMBA,Jul-23,2022,Strategic Management,After,82.1
+MGB,Jul-22,2024,Financial Accounting,After,77.0
+GMBA,Jan-22,2024,Strategic Management,Before,71.5
+MGB,Jan-24,2024,Strategic Management,Before,65.6
+GMBA,Jan-23,2024,International Business,Before,74.6
+MGB,Jan-24,2024,Business Analytics,After,87.6
+MGB,Jul-24,2023,Financial Accounting,After,84.0
+GMBA,Jul-23,2023,Digital Marketing,Before,66.7
+MGB,Jul-23,2023,Human Resource Management,Before,74.9
+GCGM,Jul-22,2023,Human Resource Management,Before,70.2
+MGB,Jul-24,2022,Financial Accounting,After,84.0
+GMBA,Jul-22,2022,Operations Management,After,82.6
+MGB,Jan-22,2024,Human Resource Management,After,85.1
+MGB,Jul-23,2023,International Business,After,78.9
+GCGM,Jan-23,2023,Strategic Management,After,84.5
+GCGM,Jan-23,2023,International Business,Before,73.6
+GCGM,Jan-24,2022,Digital Marketing,After,76.9
+GMBA,Jan-22,2024,Corporate Finance,After,76.4
+GMBA,Jan-23,2023,Organizational Behavior,Before,74.8
+GMBA,Jul-22,2023,Organizational Behavior,Before,79.8
+GMBA,Jul-23,2024,Strategic Management,After,87.0
+MGB,Jan-23,2023,Strategic Management,Before,79.1
+GCGM,Jan-22,2024,Digital Marketing,After,86.9
+GCGM,Jul-22,2023,Operations Management,Before,68.5
+GMBA,Jul-22,2022,Operations Management,Before,77.2
+MGB,Jul-24,2023,Business Analytics,After,87.9
+GCGM,Jan-22,2024,International Business,Before,65.2
+GMBA,Jan-24,2022,Digital Marketing,After,77.9
+GMBA,Jan-23,2023,International Business,Before,69.5
+MGB,Jul-22,2022,Operations Management,After,80.6
+MGB,Jan-22,2022,International Business,After,82.3
+GMBA,Jan-24,2024,Strategic Management,After,75.3
+MGB,Jul-24,2023,Human Resource Management,Before,71.8
+GMBA,Jan-22,2023,Strategic Management,After,80.5
+GMBA,Jan-22,2024,Operations Management,After,77.2
+GMBA,Jan-22,2022,Organizational Behavior,Before,68.1
+MGB,Jan-24,2022,Digital Marketing,Before,71.0
+MGB,Jan-24,2024,Supply Chain Management,Before,65.9
+MGB,Jan-23,2023,Operations Management,After,87.5
+GCGM,Jan-23,2024,Supply Chain Management,After,88.1
+MGB,Jul-24,2022,Organizational Behavior,After,83.2
+MGB,Jul-24,2022,Human Resource Management,After,85.6
+GMBA,Jan-24,2024,Digital Marketing,Before,71.4
+GCGM,Jul-23,2022,Corporate Finance,Before,72.8
+GCGM,Jul-22,2022,Financial Accounting,Before,65.6
+MGB,Jul-23,2022,Organizational Behavior,After,77.1
+GMBA,Jul-23,2023,Corporate Finance,After,76.8
+MGB,Jul-24,2024,Operations Management,After,84.2
+MGB,Jan-24,2024,Business Analytics,Before,69.4
+GMBA,Jul-22,2024,Human Resource Management,After,82.1
+GCGM,Jan-23,2024,Business Analytics,Before,72.9
+MGB,Jan-22,2023,International Business,Before,67.3
+GCGM,Jan-22,2023,Strategic Management,Before,75.4
+GMBA,Jul-23,2023,Digital Marketing,Before,74.4
+GMBA,Jul-22,2022,Human Resource Management,Before,70.2
+GCGM,Jul-22,2023,Operations Management,After,83.8
+MGB,Jan-23,2024,International Business,After,83.4
+GMBA,Jul-24,2022,Digital Marketing,Before,66.5
+GCGM,Jan-23,2022,Operations Management,Before,66.9
+GMBA,Jan-24,2024,International Business,After,83.6
+GMBA,Jan-24,2023,Supply Chain Management,After,78.1
+GCGM,Jul-22,2022,Digital Marketing,Before,67.1
+MGB,Jan-22,2023,Digital Marketing,Before,67.1
+MGB,Jul-23,2024,Financial Accounting,After,79.5
+GCGM,Jul-22,2024,International Business,After,86.6
+GMBA,Jul-23,2023,Operations Management,After,83.0
+GMBA,Jul-22,2022,Operations Management,Before,77.6
+GMBA,Jul-23,2023,Operations Management,Before,73.4
+MGB,Jul-24,2023,Business Analytics,Before,78.0
+MGB,Jul-24,2023,International Business,Before,74.3
+GCGM,Jul-23,2023,Business Analytics,Before,67.9
+MGB,Jan-24,2022,Corporate Finance,After,79.9
+MGB,Jan-23,2024,Corporate Finance,After,75.5
+MGB,Jul-24,2023,International Business,Before,79.9
+GMBA,Jan-23,2023,Corporate Finance,Before,77.9
+MGB,Jan-24,2024,Financial Accounting,After,77.6
+GMBA,Jul-24,2024,Digital Marketing,Before,70.5
+GMBA,Jul-24,2022,Business Analytics,Before,66.2
+GCGM,Jan-22,2023,Corporate Finance,After,76.5
+GMBA,Jan-23,2022,Supply Chain Management,Before,70.0
+GMBA,Jan-23,2024,Business Analytics,After,82.7
+GMBA,Jul-23,2023,Corporate Finance,Before,67.9
+GMBA,Jul-22,2024,Operations Management,Before,67.6
+GCGM,Jan-23,2024,Strategic Management,After,77.6
+GMBA,Jan-22,2023,Operations Management,After,76.8
+MGB,Jan-24,2024,Digital Marketing,After,76.3
+GCGM,Jul-22,2024,Digital Marketing,Before,69.8
+GMBA,Jan-22,2022,Corporate Finance,Before,74.6
+MGB,Jan-22,2024,Strategic Management,After,87.6
+GMBA,Jul-22,2024,Business Analytics,After,75.8
+GMBA,Jan-23,2022,Operations Management,Before,73.5
+MGB,Jul-22,2022,Operations Management,Before,67.7
+MGB,Jan-23,2024,Financial Accounting,After,76.4
+MGB,Jan-24,2023,Human Resource Management,After,87.4
+GMBA,Jul-22,2022,Supply Chain Management,After,77.3
+GMBA,Jul-22,2024,International Business,After,84.7
+GMBA,Jan-23,2022,Human Resource Management,After,76.4
+GCGM,Jan-23,2022,Financial Accounting,After,75.5
+GCGM,Jan-24,2024,Business Analytics,After,77.1
+GMBA,Jan-23,2023,Supply Chain Management,After,84.9
+GCGM,Jan-23,2024,Digital Marketing,After,88.0
+GCGM,Jul-22,2023,Financial Accounting,After,80.1
+GCGM,Jul-22,2023,Operations Management,Before,72.0
+GCGM,Jan-22,2023,Supply Chain Management,After,83.9
+GMBA,Jul-23,2024,International Business,After,87.5
+MGB,Jul-24,2023,Supply Chain Management,After,82.2
+MGB,Jan-23,2022,Strategic Management,Before,71.3
+MGB,Jan-24,2023,Supply Chain Management,Before,67.5
+GCGM,Jan-23,2024,Organizational Behavior,Before,79.3
+GMBA,Jul-22,2022,Human Resource Management,Before,79.6
+MGB,Jul-22,2023,Financial Accounting,After,77.5
+GCGM,Jul-24,2022,Strategic Management,Before,69.5
+GCGM,Jul-22,2022,Strategic Management,After,76.4
+GCGM,Jul-22,2024,Organizational Behavior,After,75.1
+GCGM,Jan-23,2022,Financial Accounting,After,85.5
+MGB,Jul-24,2023,Financial Accounting,Before,76.4
+GCGM,Jul-23,2022,Human Resource Management,Before,71.0
+MGB,Jan-23,2024,International Business,After,83.0
+MGB,Jul-23,2024,Supply Chain Management,Before,68.3
+GMBA,Jul-22,2022,Human Resource Management,After,80.1

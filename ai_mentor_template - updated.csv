@@ -1,0 +1,151 @@
+Academic_Manager_Name,Course,Cohort,Term,"Project Type (ARP, IBR 1, IBR 2, Industry Project)",Total Number of students/teams  mentoring/mentored,"Q1_Are Students_motivated to use AI Mentor? (Yes/No, as they don't find it useful)",Q2_Are students using AI Mentor effectively ? (Yes/No),Q3_Have you mandated students to meet you only after obtaining suggestions from AI Mentor? (Yes/No),"Q4_Improvement_observed in student's logical thinking, Presentation & Report Structure with the use of AI Mentor (Yes/No)",Approx. percentage of students under your guidance who levelled up using AI Mentor.
+AM_Patel,GCGM,Jul-23,Term 2,ARP,13,No,Yes,Yes,Yes,86
+AM_Lim,MGB,Jul-23,Term 4,ARP,6,No,Yes,No,No,89
+AM_Agarwal,MGB,Jul-24,Term 4,IBR 2,23,Yes,No,No,Yes,86
+AM_Rao,MGB,Jan-23,Term 4,Industry Project,24,Yes,Yes,No,Yes,49
+AM_Sharma,GMBA,Jul-24,Term 3,IBR 1,9,Yes,Yes,No,Yes,49
+AM_Nair,MGB,Jul-24,Term 1,Industry Project,20,No,Yes,Yes,No,22
+AM_Lee,GCGM,Jul-22,Term 2,IBR 1,25,Yes,Yes,Yes,Yes,53
+AM_Agarwal,GMBA,Jul-23,Term 1,IBR 2,7,Yes,No,No,No,41
+AM_Lee,MGB,Jan-24,Term 2,IBR 1,24,No,Yes,No,No,28
+AM_Lee,MGB,Jul-23,Term 2,ARP,5,Yes,No,Yes,Yes,42
+AM_Iyer,GMBA,Jan-24,Term 1,ARP,7,No,Yes,Yes,No,86
+AM_Nair,MGB,Jan-22,Term 4,IBR 1,20,No,No,Yes,No,37
+AM_Chen,MGB,Jul-22,Term 1,IBR 2,24,No,No,Yes,Yes,20
+AM_Kumar,GMBA,Jan-22,Term 4,IBR 1,15,No,No,Yes,Yes,74
+AM_Chen,MGB,Jan-24,Term 4,IBR 2,24,No,No,Yes,No,90
+AM_Iyer,GCGM,Jan-23,Term 4,IBR 2,14,No,No,Yes,Yes,49
+AM_Reddy,GMBA,Jul-22,Term 1,IBR 1,21,No,No,Yes,Yes,69
+AM_Singh,GCGM,Jul-22,Term 4,Industry Project,7,Yes,No,Yes,No,30
+AM_Patel,GMBA,Jul-23,Term 4,IBR 2,24,Yes,Yes,No,No,21
+AM_Verma,GMBA,Jan-24,Term 3,IBR 1,6,Yes,Yes,Yes,No,50
+AM_Singh,GCGM,Jan-22,Term 3,Industry Project,16,No,No,Yes,Yes,28
+AM_Sharma,GMBA,Jan-23,Term 3,IBR 2,13,Yes,Yes,No,No,20
+AM_Chen,GCGM,Jul-23,Term 1,ARP,21,No,No,Yes,No,88
+AM_Chen,GMBA,Jul-23,Term 4,Industry Project,12,No,No,No,Yes,81
+AM_Kumar,MGB,Jan-22,Term 4,IBR 1,12,No,No,No,Yes,53
+AM_Lee,MGB,Jan-22,Term 4,IBR 2,7,Yes,No,No,No,47
+AM_Chen,GCGM,Jul-24,Term 2,Industry Project,11,Yes,Yes,No,Yes,49
+AM_Verma,GCGM,Jan-24,Term 3,IBR 1,8,Yes,Yes,No,Yes,89
+AM_Patel,MGB,Jan-23,Term 3,Industry Project,23,No,No,Yes,No,70
+AM_Lee,GMBA,Jul-22,Term 1,Industry Project,20,Yes,No,No,Yes,78
+AM_Kumar,GMBA,Jan-24,Term 4,IBR 2,5,Yes,Yes,No,Yes,61
+AM_Lim,GMBA,Jan-23,Term 2,IBR 2,12,No,No,No,No,43
+AM_Iyer,MGB,Jul-22,Term 4,IBR 2,16,No,No,No,Yes,36
+AM_Lee,GCGM,Jul-24,Term 3,IBR 1,22,No,No,Yes,Yes,39
+AM_Iyer,GCGM,Jul-22,Term 4,Industry Project,9,No,No,No,No,26
+AM_Rao,GCGM,Jul-24,Term 2,ARP,11,No,No,Yes,No,62
+AM_Chen,MGB,Jan-23,Term 3,IBR 2,5,No,Yes,No,Yes,88
+AM_Agarwal,MGB,Jan-23,Term 3,Industry Project,19,Yes,No,No,No,38
+AM_Agarwal,GMBA,Jan-23,Term 4,Industry Project,7,Yes,Yes,No,Yes,60
+AM_Tan,GMBA,Jan-23,Term 3,Industry Project,13,No,No,No,No,41
+AM_Agarwal,GCGM,Jul-22,Term 2,IBR 2,7,Yes,Yes,No,Yes,32
+AM_Sharma,MGB,Jan-24,Term 1,ARP,17,Yes,Yes,No,Yes,30
+AM_Rao,MGB,Jul-22,Term 2,IBR 2,19,Yes,Yes,Yes,Yes,24
+AM_Lim,MGB,Jul-23,Term 4,IBR 2,22,No,Yes,Yes,No,75
+AM_Wong,MGB,Jul-23,Term 2,ARP,19,No,No,No,No,39
+AM_Wong,GCGM,Jan-22,Term 2,IBR 2,14,No,Yes,No,No,58
+AM_Singh,MGB,Jan-23,Term 2,ARP,22,No,Yes,No,No,70
+AM_Lee,GCGM,Jul-24,Term 4,Industry Project,12,No,Yes,No,Yes,86
+AM_Chen,MGB,Jul-24,Term 3,Industry Project,11,Yes,Yes,Yes,No,34
+AM_Reddy,GMBA,Jul-23,Term 3,Industry Project,11,No,Yes,Yes,Yes,88
+AM_Singh,GCGM,Jan-22,Term 3,IBR 2,9,No,Yes,Yes,Yes,39
+AM_Singh,MGB,Jul-22,Term 3,Industry Project,14,No,No,No,Yes,62
+AM_Sharma,GCGM,Jan-22,Term 3,Industry Project,7,No,Yes,Yes,No,68
+AM_Singh,GCGM,Jul-24,Term 2,Industry Project,19,Yes,Yes,Yes,No,32
+AM_Verma,MGB,Jul-23,Term 3,IBR 2,10,Yes,Yes,No,No,58
+AM_Verma,MGB,Jan-22,Term 2,ARP,12,No,No,Yes,Yes,55
+AM_Kumar,MGB,Jul-22,Term 1,ARP,23,No,Yes,No,Yes,51
+AM_Agarwal,MGB,Jan-22,Term 3,ARP,6,No,Yes,Yes,Yes,82
+AM_Lee,MGB,Jan-24,Term 3,Industry Project,11,Yes,No,No,Yes,52
+AM_Patel,MGB,Jul-24,Term 4,IBR 2,22,No,Yes,Yes,No,61
+AM_Reddy,MGB,Jan-24,Term 2,ARP,21,Yes,No,No,No,89
+AM_Lim,MGB,Jan-22,Term 4,IBR 1,5,No,Yes,No,Yes,88
+AM_Rao,GCGM,Jan-24,Term 4,IBR 1,24,No,No,No,No,34
+AM_Kumar,GMBA,Jul-24,Term 1,ARP,9,Yes,Yes,Yes,Yes,82
+AM_Verma,GCGM,Jan-22,Term 4,Industry Project,21,No,Yes,No,Yes,29
+AM_Singh,GCGM,Jul-24,Term 4,ARP,19,Yes,No,No,No,27
+AM_Chen,GMBA,Jan-22,Term 1,IBR 2,7,Yes,Yes,Yes,Yes,88
+AM_Rao,GCGM,Jul-22,Term 2,IBR 1,22,No,Yes,No,No,74
+AM_Kumar,GCGM,Jul-22,Term 4,IBR 2,10,No,No,No,No,67
+AM_Nair,GMBA,Jul-23,Term 3,IBR 1,23,Yes,No,No,No,77
+AM_Reddy,MGB,Jan-22,Term 1,IBR 2,24,Yes,Yes,No,Yes,58
+AM_Lee,GCGM,Jan-23,Term 1,IBR 2,22,Yes,Yes,Yes,No,65
+AM_Gupta,GCGM,Jan-23,Term 3,IBR 1,12,No,No,Yes,No,47
+AM_Sharma,GMBA,Jan-23,Term 4,IBR 1,20,Yes,No,Yes,No,30
+AM_Patel,MGB,Jan-23,Term 4,Industry Project,8,Yes,Yes,No,Yes,59
+AM_Patel,MGB,Jan-24,Term 2,IBR 2,21,Yes,Yes,Yes,No,77
+AM_Sharma,GCGM,Jul-23,Term 3,Industry Project,9,Yes,No,Yes,No,26
+AM_Rao,MGB,Jan-22,Term 4,Industry Project,9,Yes,No,Yes,No,70
+AM_Verma,GMBA,Jan-24,Term 2,IBR 1,7,No,No,No,Yes,34
+AM_Nair,MGB,Jan-23,Term 3,IBR 1,15,No,Yes,No,Yes,64
+AM_Reddy,GMBA,Jul-22,Term 4,ARP,12,Yes,No,Yes,Yes,34
+AM_Patel,GCGM,Jan-24,Term 2,IBR 2,5,No,Yes,No,No,80
+AM_Singh,MGB,Jul-22,Term 2,IBR 1,22,No,No,Yes,Yes,68
+AM_Patel,MGB,Jul-22,Term 1,IBR 2,11,No,Yes,No,Yes,28
+AM_Rao,GMBA,Jan-23,Term 3,ARP,5,No,No,Yes,No,85
+AM_Kumar,MGB,Jul-23,Term 1,IBR 1,11,No,Yes,Yes,Yes,87
+AM_Wong,MGB,Jul-23,Term 4,IBR 1,5,No,No,No,No,50
+AM_Chen,GCGM,Jul-24,Term 3,Industry Project,5,No,Yes,Yes,No,70
+AM_Gupta,GCGM,Jul-24,Term 4,IBR 1,18,Yes,Yes,No,No,62
+AM_Reddy,GMBA,Jul-22,Term 2,IBR 1,23,Yes,Yes,No,Yes,75
+AM_Gupta,GMBA,Jan-24,Term 2,IBR 2,7,Yes,Yes,No,Yes,23
+AM_Tan,MGB,Jul-23,Term 3,Industry Project,25,No,Yes,Yes,Yes,36
+AM_Agarwal,GCGM,Jan-24,Term 3,IBR 1,24,Yes,Yes,Yes,No,30
+AM_Iyer,GCGM,Jan-24,Term 4,IBR 2,10,No,No,No,Yes,40
+AM_Verma,GCGM,Jan-22,Term 4,ARP,13,No,Yes,Yes,Yes,28
+AM_Agarwal,MGB,Jan-24,Term 4,IBR 2,19,Yes,No,No,Yes,68
+AM_Tan,MGB,Jan-24,Term 1,ARP,19,No,Yes,Yes,No,25
+AM_Rao,GMBA,Jul-24,Term 1,IBR 1,14,No,No,No,No,79
+AM_Agarwal,MGB,Jan-23,Term 1,IBR 1,19,No,Yes,Yes,Yes,89
+AM_Gupta,MGB,Jul-23,Term 3,Industry Project,5,Yes,No,Yes,No,31
+AM_Chen,MGB,Jul-24,Term 2,ARP,7,Yes,No,No,Yes,87
+AM_Rao,GMBA,Jan-24,Term 2,Industry Project,22,No,Yes,Yes,No,39
+AM_Agarwal,GCGM,Jul-22,Term 1,Industry Project,14,No,No,No,Yes,35
+AM_Gupta,GCGM,Jan-22,Term 3,ARP,19,No,No,Yes,No,50
+AM_Verma,GMBA,Jul-24,Term 4,Industry Project,18,No,Yes,Yes,Yes,90
+AM_Chen,GMBA,Jul-24,Term 2,ARP,10,Yes,Yes,No,Yes,38
+AM_Patel,GMBA,Jan-24,Term 3,IBR 2,7,Yes,Yes,No,Yes,40
+AM_Wong,GMBA,Jul-24,Term 2,Industry Project,23,No,Yes,Yes,No,61
+AM_Lim,MGB,Jan-22,Term 4,ARP,14,No,Yes,Yes,No,62
+AM_Nair,GMBA,Jul-22,Term 2,ARP,8,Yes,No,No,No,60
+AM_Chen,GMBA,Jan-24,Term 3,IBR 1,24,No,No,No,Yes,49
+AM_Wong,GCGM,Jan-22,Term 1,ARP,19,Yes,Yes,No,No,25
+AM_Tan,MGB,Jan-24,Term 2,ARP,25,Yes,No,No,Yes,59
+AM_Wong,GMBA,Jan-24,Term 3,ARP,8,No,No,No,Yes,42
+AM_Verma,MGB,Jan-23,Term 4,Industry Project,6,Yes,No,Yes,No,88
+AM_Tan,MGB,Jul-23,Term 1,IBR 2,23,No,Yes,Yes,No,65
+AM_Sharma,GCGM,Jan-23,Term 1,IBR 2,17,Yes,No,Yes,Yes,59
+AM_Tan,GMBA,Jan-22,Term 3,Industry Project,7,No,Yes,No,No,58
+AM_Verma,GMBA,Jan-23,Term 2,ARP,16,Yes,Yes,Yes,No,84
+AM_Singh,MGB,Jan-24,Term 2,IBR 1,15,No,No,No,Yes,32
+AM_Gupta,GCGM,Jul-24,Term 1,Industry Project,17,Yes,Yes,No,Yes,31
+AM_Tan,MGB,Jan-22,Term 1,IBR 2,5,No,Yes,No,Yes,44
+AM_Wong,MGB,Jan-24,Term 3,Industry Project,8,No,Yes,Yes,No,34
+AM_Singh,GMBA,Jan-24,Term 1,IBR 1,22,No,No,No,Yes,56
+AM_Lee,GCGM,Jan-22,Term 3,IBR 2,22,No,Yes,Yes,Yes,80
+AM_Patel,GCGM,Jul-23,Term 1,ARP,18,No,Yes,No,No,59
+AM_Tan,GCGM,Jul-24,Term 1,Industry Project,23,Yes,Yes,No,Yes,78
+AM_Wong,GMBA,Jul-24,Term 4,Industry Project,12,Yes,Yes,No,No,70
+AM_Agarwal,GMBA,Jul-24,Term 3,IBR 2,19,No,Yes,Yes,No,34
+AM_Lim,MGB,Jul-23,Term 2,IBR 2,16,Yes,Yes,No,Yes,61
+AM_Sharma,MGB,Jan-24,Term 4,Industry Project,23,No,Yes,Yes,Yes,81
+AM_Rao,GCGM,Jan-23,Term 2,Industry Project,18,No,Yes,Yes,Yes,82
+AM_Kumar,GMBA,Jan-24,Term 4,IBR 2,22,Yes,No,Yes,No,71
+AM_Sharma,GMBA,Jan-22,Term 4,IBR 2,20,Yes,Yes,Yes,Yes,20
+AM_Gupta,GMBA,Jul-22,Term 4,IBR 2,17,No,Yes,Yes,No,58
+AM_Wong,MGB,Jul-24,Term 3,ARP,23,Yes,No,Yes,No,27
+AM_Lim,GMBA,Jan-22,Term 1,IBR 2,8,No,Yes,Yes,No,70
+AM_Tan,GMBA,Jul-23,Term 4,Industry Project,18,Yes,Yes,No,Yes,44
+AM_Rao,MGB,Jul-23,Term 2,IBR 2,9,Yes,Yes,Yes,Yes,38
+AM_Iyer,GMBA,Jul-23,Term 2,ARP,9,No,No,No,Yes,78
+AM_Nair,GMBA,Jul-23,Term 4,IBR 2,12,Yes,No,Yes,No,50
+AM_Chen,MGB,Jan-24,Term 3,ARP,6,No,No,Yes,No,30
+AM_Gupta,GMBA,Jul-24,Term 3,Industry Project,21,Yes,Yes,Yes,No,29
+AM_Wong,GMBA,Jan-22,Term 3,ARP,20,No,No,No,No,65
+AM_Wong,MGB,Jul-22,Term 1,IBR 2,23,No,Yes,No,Yes,26
+AM_Wong,GMBA,Jan-24,Term 1,IBR 2,20,Yes,Yes,Yes,No,52
+AM_Gupta,GMBA,Jan-23,Term 3,IBR 2,5,Yes,Yes,Yes,No,67
+AM_Agarwal,MGB,Jul-24,Term 2,Industry Project,10,Yes,No,Yes,Yes,39
+AM_Iyer,MGB,Jul-23,Term 2,Industry Project,25,Yes,Yes,No,Yes,53
+AM_Kumar,GCGM,Jul-22,Term 4,Industry Project,20,No,No,Yes,No,69

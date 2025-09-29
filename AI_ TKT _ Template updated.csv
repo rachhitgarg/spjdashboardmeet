@@ -1,0 +1,101 @@
+Unit,Course,Average Grades Before AI for TKT,Avergae Grades After AI for TKT,Improvement%
+Financial Accounting,MGB,65.0,80.2,23.4
+International Business,MGB,68.0,86.5,27.3
+Operations Management,MGB,71.9,79.5,10.6
+International Business,GMBA,77.5,94.6,22.0
+Business Analytics,GMBA,75.4,84.1,11.6
+International Business,GMBA,64.0,73.6,15.0
+Operations Management,GMBA,78.5,90.5,15.2
+Business Analytics,MGB,75.6,93.2,23.1
+Digital Marketing,GCGM,70.5,85.9,21.9
+Organizational Behavior,GMBA,74.3,86.3,16.2
+International Business,MGB,68.4,79.6,16.3
+Corporate Finance,GMBA,60.5,77.0,27.3
+Digital Marketing,GCGM,72.3,81.8,13.2
+Strategic Management,GMBA,70.2,77.2,9.8
+Organizational Behavior,GMBA,77.6,83.4,7.5
+Leadership & Change,MGB,62.5,77.6,24.1
+Financial Accounting,GMBA,69.2,75.0,8.4
+Corporate Finance,MGB,76.6,91.3,19.3
+Human Resource Management,GMBA,61.9,71.3,15.1
+Financial Accounting,GMBA,66.6,72.5,8.9
+Consumer Behavior,GMBA,73.5,89.6,21.9
+Corporate Finance,GMBA,64.1,71.3,11.2
+Consumer Behavior,MGB,62.7,81.2,29.4
+Investment Banking,GCGM,66.0,75.7,14.6
+Corporate Finance,MGB,72.5,80.5,11.1
+Digital Marketing,GCGM,63.1,81.3,28.9
+Organizational Behavior,GCGM,64.9,71.5,10.1
+Corporate Finance,GMBA,68.9,74.7,8.5
+Digital Marketing,MGB,68.1,87.8,29.0
+Leadership & Change,GCGM,76.8,90.0,17.2
+Leadership & Change,GMBA,73.6,91.5,24.3
+Supply Chain Management,GCGM,68.6,83.2,21.2
+Business Analytics,GCGM,76.4,91.2,19.5
+Business Analytics,GMBA,74.8,88.0,17.6
+Financial Accounting,MGB,65.8,80.8,22.8
+Supply Chain Management,MGB,67.3,76.5,13.6
+International Business,GMBA,76.0,88.0,15.7
+Leadership & Change,MGB,63.0,72.2,14.7
+Digital Marketing,GMBA,67.8,81.5,20.2
+Corporate Finance,GMBA,73.0,87.9,20.4
+Financial Accounting,GCGM,78.2,88.5,13.2
+Business Analytics,MGB,77.6,89.5,15.3
+Corporate Finance,GCGM,67.2,85.0,26.6
+Organizational Behavior,GCGM,67.0,82.6,23.3
+International Business,GMBA,61.3,76.1,24.2
+Human Resource Management,GMBA,74.4,84.5,13.6
+Consumer Behavior,GCGM,65.6,82.0,25.1
+Operations Management,MGB,61.4,79.0,28.7
+Financial Accounting,MGB,79.3,93.3,17.8
+Business Analytics,GMBA,74.2,86.8,17.0
+Investment Banking,GMBA,65.2,80.7,23.7
+Supply Chain Management,GMBA,67.0,81.2,21.3
+International Business,GCGM,60.9,78.7,29.2
+Business Analytics,GCGM,61.9,68.5,10.6
+Investment Banking,MGB,66.5,74.9,12.7
+Data Science,GMBA,75.9,82.5,8.7
+Business Analytics,GMBA,77.8,94.2,21.0
+International Business,GCGM,61.2,70.0,14.3
+Corporate Finance,GMBA,61.5,77.9,26.8
+Supply Chain Management,GMBA,76.8,95.7,24.5
+Human Resource Management,GCGM,74.0,84.6,14.4
+Investment Banking,GMBA,71.1,79.1,11.2
+Financial Accounting,MGB,73.6,82.0,11.4
+Consumer Behavior,GCGM,68.7,81.6,18.8
+Data Science,GCGM,61.7,67.1,8.7
+Investment Banking,GCGM,64.1,81.2,26.8
+Corporate Finance,MGB,75.5,89.0,17.9
+Leadership & Change,GCGM,66.8,82.0,22.8
+Consumer Behavior,GMBA,70.6,78.4,11.1
+Strategic Management,GMBA,76.6,89.1,16.3
+Human Resource Management,GMBA,78.0,95.8,22.8
+Data Science,GCGM,68.8,83.2,20.9
+Leadership & Change,GCGM,71.4,78.3,9.7
+Organizational Behavior,MGB,62.0,74.5,20.1
+Corporate Finance,GMBA,70.8,76.1,7.5
+Leadership & Change,MGB,78.4,87.2,11.2
+Consumer Behavior,MGB,61.4,79.4,29.5
+Operations Management,GCGM,70.7,79.3,12.2
+Organizational Behavior,GMBA,70.0,81.0,15.7
+Corporate Finance,GMBA,74.0,80.6,9.0
+Financial Accounting,MGB,73.1,78.5,7.5
+International Business,MGB,64.0,82.3,28.6
+Corporate Finance,GCGM,64.1,81.3,26.9
+Human Resource Management,GMBA,78.2,84.2,7.6
+Financial Accounting,GCGM,76.1,89.6,17.7
+Supply Chain Management,GMBA,76.7,93.8,22.3
+Human Resource Management,GCGM,79.0,93.0,17.7
+Supply Chain Management,GCGM,77.8,89.9,15.7
+Business Analytics,MGB,74.5,81.0,8.8
+Financial Accounting,GMBA,64.5,74.8,15.9
+Financial Accounting,MGB,75.6,93.8,24.0
+Strategic Management,GCGM,78.6,84.0,6.9
+Data Science,GCGM,70.7,88.6,25.3
+Investment Banking,GMBA,74.8,88.0,17.8
+Corporate Finance,MGB,75.3,90.7,20.5
+International Business,GMBA,68.5,75.6,10.3
+Financial Accounting,GCGM,77.9,97.7,25.3
+Human Resource Management,MGB,63.9,75.4,18.1
+Corporate Finance,GCGM,64.6,78.5,21.4
+Strategic Management,MGB,74.9,93.3,24.4
